@@ -1,0 +1,1 @@
+Design a 3 axis cnc that uses off the shelf aluminum extrusion and 3D printed parts. the goal is for it to be able to cut stainless still so I can make my own golf club head or any other parts for personal projects. it is still in progress since I put the project on pause to focus on my other more important ones 
